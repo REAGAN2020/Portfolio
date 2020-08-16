@@ -96,6 +96,7 @@ font-family:'Bungee Shade', cursive;
 }
 button:active{
     transform: scale(1.4);
+    background-color: rgb(10, 7, 1);
 }
 .model{
     height: 560px;
@@ -125,7 +126,9 @@ button:active{
 }
    .about-container img{
        height: 250px;
-       margin: 30px;
+       margin:30px;
+       border-radius: 20px;
+       
    }
    .about-text p:nth-child(1){
        color: rgb(10, 7, 1);
@@ -144,4 +147,31 @@ button:active{
    h3,h4{
        color: gold;
        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+   .about-text button{
+       width:120px;
+       height: 40px;
+       color: #ffffff;
+       outline:none;
+       border-radius: 20px;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: rgb(10, 7, 1);
+   }
+   .project{
+       height: 600px;
+       background-color:rgb(0, 0, 0);
+   }
+   .project-text p:nth-child(1){
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: ;
+    font-size: 30px;
+    line-height: 0px;
+   }
+   .project-text p:nth-child(2){
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: ;
+    font-size: 15px;
+    line-height: 0px;
    }
