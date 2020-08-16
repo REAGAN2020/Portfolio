@@ -26,6 +26,7 @@ nav{
     background-color:rgb(165, 139, 72);
     box-shadow: 2px 2px 12px rgb(65, 160, 36);
     padding: 0px 5%;
+    margin: 50px;
 }
 nav ul{
     display:flex;
