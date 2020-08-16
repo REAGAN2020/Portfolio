@@ -1,8 +1,8 @@
 body{
     background-color:rgb(70, 66, 66);
     color: blanchedalmond;
-    margin: 30px;
-    padding: 0px;
+    margin: 0px;
+    padding: 8px;
     background-image: url(images/1920x1280\ wood\ desktop\ background\ wallpaper\ hd.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -138,8 +138,8 @@ button:active{
     color: gold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
-    font-size: 20pxpx;
-    line-height: 0px;
+    font-size: 20px;
+    line-height: 5px;
    }
    h3,h4{
        color: gold;
