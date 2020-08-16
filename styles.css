@@ -4,6 +4,8 @@ body{
     margin: 0px;
     padding: 0px;
     background-image: url(images/1920x1280\ wood\ desktop\ background\ wallpaper\ hd.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 ul{
     list-style: none;
@@ -117,8 +119,19 @@ button:active{
     margin: -7% auto 20px auto;
     position: relative;
     margin-top: auto;
-   }
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
    .about-container img{
        height: 250px;
        margin: 30px;
    }
+   .about-text p:nth-child(1){
+       color: rgb(128, 253, 2);
+       font-family:Georgia, 'Times New Roman', Times, serif;
+       font-weight: bold;
+       font-size: 23px;
+       line-height: 0px;
+   }
+
