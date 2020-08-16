@@ -98,7 +98,13 @@ button:active{
 .model{
     height: 560px;
     position: absolute;
-    bottom: px;
+    top:40px;
     left: 70%;
     transform:translateX(-70%)
+   }
+   img.model{
+       border-radius: 20px;
+       border: peru;
+       padding: 6px;
+        margin: 20px; 
    }
