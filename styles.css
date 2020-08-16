@@ -104,7 +104,21 @@ button:active{
    }
    img.model{
        border-radius: 20px;
-       border: peru;
+       border: rgb(177, 132, 87);
        padding: 6px;
         margin: 20px; 
+   }
+   .about-container{
+    width: 80%;
+    height: 330px;
+    background-color: rgb(58, 31, 4);   
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px ;
+    margin: -7% auto 20px auto;
+    position: relative;
+    margin-top: auto;
+   }
+   .about-container img{
+       height: 250px;
+       margin: 30px;
    }
