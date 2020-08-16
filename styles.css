@@ -157,21 +157,30 @@ button:active{
        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         background-color: rgb(10, 7, 1);
    }
-   .project{
-       height: 600px;
-       background-color:rgb(0, 0, 0);
+   .projects{
+       
+       background-color:rgb(58, 31, 4);
    }
-   .project-text p:nth-child(1){
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    project-text p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    color: ;
-    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-size:20px;
     line-height: 0px;
    }
-   .project-text p:nth-child(2){
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: bold;
-    color: ;
-    font-size: 15px;
-    line-height: 0px;
+   .project-text h3{
+       color: gold;
+       font-size: 30px;
    }
+   .project-text button{
+    width:120px;
+    height: 40px;
+    color: #ffffff;
+    outline:none;
+    border-radius: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     background-color: rgb(10, 7, 1);
+}
+a{
+    color: white;
+}
