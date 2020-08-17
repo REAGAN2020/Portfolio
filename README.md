@@ -3,7 +3,9 @@
 <table>
 <tr>
 <td>
-  
+  Hello!I'm Reagan a web developer  at moringa school.I am currently doing my studies there.
+  In this portfolio i believe you'll find most of the thimgs about me.
+  I have created a website before of a restaurant and below is the live link.
 </td>
 </tr>
 </table>
