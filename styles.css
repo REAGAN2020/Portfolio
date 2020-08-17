@@ -311,3 +311,7 @@ footer span{
     color: #ffffff;
     transition:all ease 0.5s;
 }
+h5{
+    font-size: 20px;
+    color: rgb(163, 43, 43);
+}
