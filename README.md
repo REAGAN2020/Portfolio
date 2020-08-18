@@ -40,5 +40,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## [License](https://github.com/REAGAN2020/portfolio/blob/master/LICENSE.md)
 
-MIT © [Reagan Owiti](https://github.com/REAGAN2020)
+[MIT © ](https://github.com/REAGAN2020/portfolio/blob/master/LICENSE.md)
 
