@@ -38,7 +38,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - html
 - css
 
-## [License]()
+## License
 
 [MIT © ](https://github.com/REAGAN2020/portfolio/blob/master/LICENSE.md)
 
